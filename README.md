@@ -1,5 +1,6 @@
 # Pebble Weather
 ================
+![](https://github.com/karcio/pebbleWeather/blob/master/resources/images/weather_screenshot.png)
 
 Simple information about weather in selected city:
 - city name
