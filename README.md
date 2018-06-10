@@ -8,4 +8,5 @@ Simple information about weather in selected city:
 - wind speed
 - wind direction
 
-![](https://github.com/karcio/pebbleWeather/blob/master/resources/images/screenshot)
+
+![](https://github.com/karcio/pebbleWeather/blob/master/resources/images/screenshot.png)
