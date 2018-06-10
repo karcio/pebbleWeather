@@ -30,8 +30,8 @@
                 "type": "font"
             },
             {
-                "file": "images/screenshot",
-                "name": "IMAGES_SCREENSHOT",
+                "file": "images/screenshot.png",
+                "name": "IMAGES_SCREENSHOT_PNG",
                 "type": "bitmap"
             },
             {
