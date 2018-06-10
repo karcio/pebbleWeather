@@ -30,6 +30,11 @@
                 "type": "font"
             },
             {
+                "file": "images/screenshot",
+                "name": "IMAGES_SCREENSHOT",
+                "type": "bitmap"
+            },
+            {
                 "file": "images/weather_screenshot.png",
                 "menuIcon": true,
                 "name": "IMAGES_WEATHER_SCREENSHOT_PNG",
@@ -40,8 +45,7 @@
     "sdkVersion": "3",
     "shortName": "Pweather",
     "targetPlatforms": [
-        "aplite",
-        "basalt"
+        "aplite"
     ],
     "uuid": "7bd08ca9-8e13-4c0f-a217-a1ea519e8a51",
     "versionCode": 1,

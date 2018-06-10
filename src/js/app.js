@@ -1,4 +1,4 @@
-var myAPIKey = 'yourAPIKey';
+var myAPIKey = '8d0d43256b8bfb855fd1750d1bd612cd';
 var ajax = require('ajax');
 var UI = require('ui');
 
