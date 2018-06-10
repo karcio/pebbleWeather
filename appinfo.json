@@ -5,25 +5,24 @@
         "configurable"
     ],
     "companyName": "kczarnecki@hotmail.com",
-    "longName": "weather",
+    "longName": "Pebble Weather",
     "projectType": "pebblejs",
     "resources": {
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/logo_splash.png",
                 "name": "IMAGE_LOGO_SPLASH",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/tile_splash.png",
                 "name": "IMAGE_TILE_SPLASH",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "fonts/UbuntuMono-Regular.ttf",
@@ -32,17 +31,23 @@
             },
             {
                 "file": "images/weather_screenshot.png",
+                "menuIcon": true,
                 "name": "IMAGES_WEATHER_SCREENSHOT_PNG",
-                "type": "png"
+                "type": "bitmap"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "weather",
+    "shortName": "Pweather",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "7bd08ca9-8e13-4c0f-a217-a1ea519e8a51",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
+        "hiddenApp": false,
         "watchface": false
     }
 }

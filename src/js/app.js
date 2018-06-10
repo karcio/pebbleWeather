@@ -1,3 +1,4 @@
+var myAPIKey = '8d0d43256b8bfb855fd1750d1bd612cd';
 var ajax = require('ajax');
 var UI = require('ui');
 
@@ -8,9 +9,8 @@ var card = new UI.Card({
 
 card.show();
 
-var cityName = 'Leixlip, IE';
-var URL = 'http://api.openweathermap.org/data/2.5/weather?q=' + cityName;
-
+var cityName = 'Celbridge, IE';
+var URL = 'http://api.openweathermap.org/data/2.5/weather?q=' + cityName + '&appid=' + myAPIKey;
 ajax(
   {
     url: URL,
