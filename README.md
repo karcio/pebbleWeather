@@ -1,6 +1,7 @@
 # Pebble Weather
 ================
-![](https://github.com/karcio/pebbleWeather/blob/master/resources/images/weather_screenshot.png)
+
+![](https://github.com/karcio/pebbleWeather/blob/master/resources/images/screenshot)
 
 Simple information about weather in selected city:
 - city name
@@ -10,5 +11,3 @@ Simple information about weather in selected city:
 - pressure
 - wind speed
 - wind direction
-
-![](https://github.com/karcio/pebbleWeather/blob/master/resources/images/screenshot)
