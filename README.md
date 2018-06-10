@@ -10,3 +10,6 @@ Simple information about weather in selected city:
 - pressure
 - wind speed
 - wind direction
+
+
+![](https://github.com/karcio/pebbleWeather/blob/master/screenshot.png)
